@@ -17,3 +17,55 @@
   width: 150px;
 }
 
+/* Styling main */
+#main-title{
+  margin-left: 1%;
+  margin-top: 1%;
+  font-size: 45px;
+}
+
+#color-sub{
+  color: aqua;
+}
+
+#text-color, #data-font{
+  margin-left: 1%;
+  color: gray;
+}
+
+#picture-main{
+  margin: 1%;
+}
+
+#highlight-text{
+  background-color: yellow;
+}
+
+#info-main{
+  margin-left: 1%;
+  margin-bottom: 1%;
+}
+
+section ul, li{
+  margin: 0 1%;
+}
+
+table{
+  margin: 8px 1%;
+  border: none;
+}
+
+table thead{
+  background-color: rgb(61, 171, 227);
+  color: white;
+  text-align: left;
+}
+
+.tr-blue{
+  background-color: rgb(177, 223, 255) ;
+}
+
+table th,
+table td {
+  padding: 12px 15px;
+}
